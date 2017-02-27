@@ -1,0 +1,16 @@
+Fait :
+Importation des images depuis google
+Images vers tableau de pixels
+Test de reconnaissance d'image
+
+
+A faire:
+Correction de bug
+Nettoyer des images (les joies de google)
+Mise en place de la soutenance
+Commenter le code
+
+
+Problemes:
+Problemes de memoires
+Prendre des images ressemblante 

@@ -1,0 +1,12 @@
+30 janvier :
+
+Fait :
+Recherche des differents algorythmes de reconnaissance d'images
+Test depuis des datasets de skleanr
+
+
+A faire:
+Trouvé des videos, examples de reconnaissance d'images
+
+Problemes:
+Je n'ai pas vraiment compris comment etablir un dataset depuis plusieurs images

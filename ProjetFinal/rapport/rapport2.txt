@@ -1,0 +1,8 @@
+statut 2:
+
+Fait :
+J'ai enfin trouvé un tuto pythonprogramming.net/automated-image-thresholding-python/?completed=/thresholding-python-function/
+Test de recuperation d'images depuis google
+
+A faire :
+Passer les images en dataset 
